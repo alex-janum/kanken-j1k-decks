@@ -1,4 +1,6 @@
 # 漢字検定 準1級 問題集
+*Downloads may also be found in the shared decks section on [AnkiWeb](https://ankiweb.net/shared/info/499990065). Feel free to leave a thumbs up there if you've found these decks useful!*
+
 This is a collection of decks made to help with practicing for the different sections of the Kanji Kentei Jun-1-Kyuu (officially *The Japan Kanji Aptitude Test Grade Semi-1*). They contain handmade practice questions based on words that have appeared on past tests between 2007 and 2022. Each deck comes pre-sorted so that words that have appeared multiple times on that section will be shown first.
 
 The cards are designed to mimic the layout and the vertical writing on the actual exam, with only the necessary information shown on the front and back of each card in order to facilitate quick reviews with minimal distractions.
